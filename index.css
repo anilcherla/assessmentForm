@@ -1,0 +1,68 @@
+
+.head{
+	position: relative;
+	float:left;
+	border: 1px solid black;
+	width:80px;
+	height: 25px;
+
+	}
+
+.border1{
+	border:1px solid black;
+	width:90%;
+	height:280px;
+	padding:15px;
+	}
+
+.border2{
+	border:1px solid black;
+	width:90%;
+	height:550px;
+	padding:15px;
+	}
+.border3{
+	border:1px solid black;
+	width:90%;
+	height:320px;
+	padding:15px;
+	}	
+
+.percent{
+	position:relative;
+	float:left;
+	padding: 5px 5px;
+	}
+
+.box1{
+	border:1px solid black;
+	width:300px;
+	height:25px;
+	padding-left:5px;
+	}
+
+.box2{
+	border:1px solid black;
+	width:300px;
+	height:90px;
+	padding-left:5px;
+	}
+
+.box3{
+	border:1px solid black;
+	width:400px;
+	height:25px;
+	padding-left:5px;
+	}
+
+.box4{
+	border:1px solid black;
+	width:400px;
+	height:200px;
+	padding-left:5px;
+	}
+
+.time{
+	height:25px;
+	width:70px;
+	}
